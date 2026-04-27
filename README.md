@@ -3,13 +3,13 @@ Python + Pandas + NumPy + Matplotlib + Seaborn + Jupyter Notebook
 
 ## Table of Content 
 
-* [Project Overview](Project-Overview)
-* [Tools & Technologies](Tools--Technologies)
-* [Dataset Overview](Dataset-Overview)
-* [Python Exploratory Process](Python-Exploratory-Process)
-* [Exploratory Analysis](Exploratory-Analysis)
-* [Key Insights](Key-Insights)
-* [Recommendations](Recommendations)
+* [Project Overview](#project-overview)
+* [Tools & Technologies](#tools--technologies)
+* [Dataset Overview](#dataset-overview)
+* [Python Exploratory Process](#python-exploratory-process)
+* [Exploratory Analysis](#exploratory-analysis)
+* [Key Insights](#key-insights)
+* [Recommendations](#recommendations)
   
 ### Project Overview 
 A student performance dataset containing variables such as study hours, attendance, previous scores, parental education, and access to resources, used to analyze patterns and identify key factors influencing academic outcomes.
